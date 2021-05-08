@@ -1,2 +1,2 @@
-# Test for JENKIN
+# Demo project for JENKIN
 
